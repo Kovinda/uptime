@@ -5,18 +5,18 @@
     "icon": "https://cal.kln.ac.lk/pluginfile.php/1/theme_adaptable/favicon/1705034310/favicon.png",
     "slug": "ekel",
     "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-14": 27,
+      "2024-06-14": 210,
       "2024-06-13": 520
     }
   },
@@ -25,18 +25,20 @@
     "url": "https://cal.kln.ac.lk/login/index.php",
     "icon": "https://cal.kln.ac.lk/pluginfile.php/1/theme_adaptable/favicon/1705034310/favicon.png",
     "slug": "cal",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1619,
     "timeDay": 1619,
     "timeWeek": 1619,
     "timeMonth": 1619,
     "timeYear": 1619,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-14": 1
+    }
   },
   {
     "name": "KLN Medicine",
@@ -61,18 +63,19 @@
     "url": "https://www.kln.ac.lk/",
     "icon": "https://cal.kln.ac.lk/pluginfile.php/1/theme_adaptable/favicon/1705034310/favicon.png",
     "slug": "kelaniya-university",
-    "status": "up",
-    "uptime": "96.22%",
-    "uptimeDay": "96.22%",
-    "uptimeWeek": "96.22%",
-    "uptimeMonth": "96.22%",
-    "uptimeYear": "96.22%",
+    "status": "down",
+    "uptime": "97.15%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "97.15%",
+    "uptimeYear": "97.15%",
     "time": 4266,
     "timeDay": 4266,
     "timeWeek": 4266,
     "timeMonth": 4266,
     "timeYear": 4266,
     "dailyMinutesDown": {
+      "2024-06-14": 0,
       "2024-06-13": 21
     }
   }
