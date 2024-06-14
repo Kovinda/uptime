@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-14": 574,
+      "2024-06-14": 599,
       "2024-06-13": 520
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://cal.kln.ac.lk/login/index.php",
     "icon": "https://cal.kln.ac.lk/pluginfile.php/1/theme_adaptable/favicon/1705034310/favicon.png",
     "slug": "cal",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.87%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 1579,
     "timeDay": 1579,
     "timeWeek": 1579,
     "timeMonth": 1579,
     "timeYear": 1579,
     "dailyMinutesDown": {
-      "2024-06-14": 12
+      "2024-06-14": 1
     }
   },
   {
@@ -64,11 +64,11 @@
     "icon": "https://cal.kln.ac.lk/pluginfile.php/1/theme_adaptable/favicon/1705034310/favicon.png",
     "slug": "kelaniya-university",
     "status": "up",
-    "uptime": "98.11%",
-    "uptimeDay": "98.11%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "98.11%",
-    "uptimeYear": "98.11%",
+    "uptime": "98.15%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "98.15%",
     "time": 4363,
     "timeDay": 4363,
     "timeWeek": 4363,
