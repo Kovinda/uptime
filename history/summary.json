@@ -5,18 +5,18 @@
     "icon": "https://cal.kln.ac.lk/pluginfile.php/1/theme_adaptable/favicon/1705034310/favicon.png",
     "slug": "ekel",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-14": 221,
+      "2024-06-14": 562,
       "2024-06-13": 520
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://cal.kln.ac.lk/login/index.php",
     "icon": "https://cal.kln.ac.lk/pluginfile.php/1/theme_adaptable/favicon/1705034310/favicon.png",
     "slug": "cal",
-    "status": "up",
-    "uptime": "98.44%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "98.44%",
-    "uptimeYear": "98.44%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1577,
     "timeDay": 1577,
     "timeWeek": 1577,
     "timeMonth": 1577,
     "timeYear": 1577,
     "dailyMinutesDown": {
-      "2024-06-14": 12
+      "2024-06-14": 0
     }
   },
   {
@@ -64,18 +64,17 @@
     "icon": "https://cal.kln.ac.lk/pluginfile.php/1/theme_adaptable/favicon/1705034310/favicon.png",
     "slug": "kelaniya-university",
     "status": "up",
-    "uptime": "95.70%",
-    "uptimeDay": "95.70%",
-    "uptimeWeek": "95.70%",
-    "uptimeMonth": "95.70%",
-    "uptimeYear": "95.70%",
+    "uptime": "98.08%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "98.08%",
     "time": 4363,
     "timeDay": 4363,
     "timeWeek": 4363,
     "timeMonth": 4363,
     "timeYear": 4363,
     "dailyMinutesDown": {
-      "2024-06-14": 11,
       "2024-06-13": 21
     }
   }
