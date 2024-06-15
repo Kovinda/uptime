@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-15": 653,
+      "2024-06-15": 671,
       "2024-06-14": 1440,
       "2024-06-13": 520
     }
@@ -26,19 +26,19 @@
     "url": "https://cal.kln.ac.lk/login/index.php",
     "icon": "https://cal.kln.ac.lk/pluginfile.php/1/theme_adaptable/favicon/1705034310/favicon.png",
     "slug": "cal",
-    "status": "down",
-    "uptime": "97.46%",
-    "uptimeDay": "97.09%",
-    "uptimeWeek": "97.46%",
-    "uptimeMonth": "97.46%",
-    "uptimeYear": "97.46%",
-    "time": 1544,
-    "timeDay": 1404,
-    "timeWeek": 1544,
-    "timeMonth": 1544,
-    "timeYear": 1544,
+    "status": "up",
+    "uptime": "96.81%",
+    "uptimeDay": "95.86%",
+    "uptimeWeek": "96.81%",
+    "uptimeMonth": "96.81%",
+    "uptimeYear": "96.81%",
+    "time": 1552,
+    "timeDay": 1462,
+    "timeWeek": 1552,
+    "timeMonth": 1552,
+    "timeYear": 1552,
     "dailyMinutesDown": {
-      "2024-06-15": 16,
+      "2024-06-15": 34,
       "2024-06-14": 50
     }
   },
