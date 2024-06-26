@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-26": 28,
+      "2024-06-26": 39,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
@@ -37,9 +37,9 @@
     "url": "https://cal.kln.ac.lk/login/index.php",
     "icon": "https://cal.kln.ac.lk/pluginfile.php/1/theme_adaptable/favicon/1705034310/favicon.png",
     "slug": "cal",
-    "status": "up",
+    "status": "down",
     "uptime": "97.24%",
-    "uptimeDay": "93.64%",
+    "uptimeDay": "94.39%",
     "uptimeWeek": "97.87%",
     "uptimeMonth": "97.24%",
     "uptimeYear": "97.24%",
@@ -49,6 +49,7 @@
     "timeMonth": 1735,
     "timeYear": 1735,
     "dailyMinutesDown": {
+      "2024-06-26": 0,
       "2024-06-25": 120,
       "2024-06-24": 28,
       "2024-06-20": 42,
