@@ -1,7 +1,7 @@
 url: https://medicine.kln.ac.lk/
-status: up
-code: 200
-responseTime: 2296
-lastUpdated: 2024-11-24T23:13:10.019Z
+status: down
+code: 503
+responseTime: 12124
+lastUpdated: 2024-11-25T06:51:03.309Z
 startTime: 2024-06-13T15:19:42.398Z
 generator: Upptime <https://github.com/upptime/upptime>
